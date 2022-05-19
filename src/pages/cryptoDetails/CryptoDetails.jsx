@@ -1,5 +1,4 @@
 import React from 'react';
-import './cryptoDetails.css';
 
 const CryptoDetails = () => {
   return (
